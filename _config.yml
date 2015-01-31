@@ -1,0 +1,11 @@
+# Site settings
+title: Navi and Co's Games
+description: > # this means to ignore newlines until "baseurl:"
+  All the games created by the group are here.
+baseurl: "/tf-games" # the subpath of your site, e.g. /blog/
+url: "http://" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
