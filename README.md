@@ -14,5 +14,5 @@ How to write and add:
 
 1. Clone the repository with ```git clone https://github.com/naviabbot/tf-games.git```
 2. Switch to the 'new-additions' branch with ```git checkout new-additions```
-3. Write your rules, formatted in GitHub Flavored Markdown and save it as <gamename>.md. 
+3. Write your rules, formatted in GitHub Flavored Markdown and save it as ```<gamename>.md```. 
 4. ```git add filename``` and ```git commit -m "Reason"``` and ```git push```
